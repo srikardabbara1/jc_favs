@@ -1,0 +1,10 @@
+[
+  {
+    "groupName": "stackfinal",
+    "precedence": 1
+  },
+  {
+    "groupName": "srikarfin",
+    "precedence": 2
+  }
+]
